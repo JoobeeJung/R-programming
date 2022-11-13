@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<root xmlns:t="http://www.html.com/myhtml" xmlns:m="http://www.xml.com/myxml">
+<t:head>
+<t:title>Look Inside!</t:title>
+</t:head>
+<m:book id="1">
+<m:title>Moby Dick</m:title>
+<m:author>Herman Melville</m:author>
+</m:book>
+</root>

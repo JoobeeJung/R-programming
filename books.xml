@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book lang="eng" format="paperback" pages="128">
+<title>The Old Man and The Sea</title>
+<author>
+<first_name>Ernest</first_name>
+<last_name>Hemingway</last_name>
+</author>
+<year>1995</year>
+<publisher>Scribner</publisher>
+</book>
+<book lang="eng" format="hardcover" pages="488">
+<title>Moby Dick</title>
+<author>
+<first_name>Herman</first_name>
+<last_name>Melville</last_name>
+</author>
+<year>2016</year>
+<publisher>Simon and Brown</publisher>
+</book>
+</books>
